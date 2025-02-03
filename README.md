@@ -85,9 +85,10 @@ Run tests with the selected browser.
 Generate an aggregated HTML report.  ( target/site/surefire-report.html )
 
 To run the script:
-
+```bash
 cd "where you cloned the repository"
 bash runTests.sh
+```
 
 ## Troubleshooting
 
