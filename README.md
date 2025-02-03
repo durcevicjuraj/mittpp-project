@@ -61,7 +61,7 @@ mittpp-project/
 ### Prerequirements:
 
 - **Drivers:**  
-  - If you use local drivers, ensure that ChromeDriver and GeckoDriver are placed in the appropriate directory (eg `~/Desktop/Development/drivers`) and configured in `DriverFactory.java`.- **IntelliJ IDEA:**
+  - If you use local drivers, ensure that ChromeDriver and GeckoDriver are placed in the appropriate directory (eg `~/Desktop/Development/drivers`) and configured in `DriverFactory.java`.
 - **IntelliJ IDEA:**
   - https://www.jetbrains.com/idea/download/?section=mac
 - **node.js & npm:**
