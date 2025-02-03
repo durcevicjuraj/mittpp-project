@@ -40,7 +40,7 @@ The framework tests several functionalities on [The Internet](http://the-interne
 ---
 
 ## Project Structure 📂
-
+```bash
 mittpp-project/
 ├── pom.xml
 ├── README.md
@@ -53,6 +53,7 @@ mittpp-project/
             ├── pages        // Page Object classes: HomePage, FormAuthPage, etc.
             └── tests        // Test classes: HomePageTest, FormAuthenticationTest, etc.
             └── utils        // Help classes, npr. DriverFactory, WaitUtils
+```
 
 ---
 
