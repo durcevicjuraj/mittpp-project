@@ -93,12 +93,17 @@ bash runTests.sh
 
 ## Troubleshooting
 
-1. Apple could not verify “chromedriver” is free of malware that may harm your Mac or compromise your privacy__
-   1.1. Go to: System Settings -> Privacy & Security__
-   1.2. Scroll down to Security section__
-   1.3. You should see a message like: "chromedriver was blocked because it is not from an identified developer."__
-   1.4. Click Allow Anyway__
-   1.5. Now, try running the chromedriver again__
+1. Apple could not verify “chromedriver” is free of malware that may harm your Mac or compromise your privacy
+
+   1.1. Go to: System Settings -> Privacy & Security
+
+   1.2. Scroll down to Security section
+   
+   1.3. You should see a message like: "chromedriver was blocked because it is not from an identified developer."
+   
+   1.4. Click Allow Anyway
+   
+   1.5. Now, try running the chromedriver again
 
 ## Contact
 
