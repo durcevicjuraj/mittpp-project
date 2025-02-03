@@ -105,6 +105,13 @@ bash runTests.sh
    
    1.5. Now, try running the chromedriver again
 
+2. File Download test fail
+
+   2.1. Go to the site where the file is being downloaded from
+   2.2. Check if the file is still there
+   2.3. If not, choose another file
+   2.4. Change all the "img.png" appearances to the "newfile.extension" in the FileDownloadPage and FileDownloadTest
+
 ## Contact
 
 If you have any questions feel free to reach out to me.
